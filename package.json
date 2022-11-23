@@ -37,7 +37,7 @@
     "@babel/plugin-proposal-decorators": "^7.7.4",
     "@babel/preset-typescript": "^7.7.4",
     "@open-wc/testing": "^0.11.1",
-    "@open-wc/testing-karma": "^3.2.19",
+    "@open-wc/testing-karma": "^4.0.9",
     "@types/graphql-resolvers": "^0.2.2",
     "@types/lodash": "^4.14.138",
     "@types/mocha": "^5.2.7",
